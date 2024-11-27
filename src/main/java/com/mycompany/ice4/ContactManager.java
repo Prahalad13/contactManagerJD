@@ -10,6 +10,8 @@ import java.util.ArrayList;
  * @author mvman
  */
 public class ContactManager {
+    
+    // testing git funcs
     private ArrayList<Contact> contactList = new ArrayList<>();
 
     /*
