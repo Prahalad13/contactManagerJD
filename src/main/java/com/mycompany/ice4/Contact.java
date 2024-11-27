@@ -9,6 +9,8 @@ package com.mycompany.ice4;
  * @author mvman
  */
 public class Contact {
+    
+    // third commit test
     private String firstName;
     private String lastName;
     private String emailAddress;
