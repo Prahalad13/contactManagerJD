@@ -11,7 +11,7 @@ import java.util.ArrayList;
  */
 public class ContactManager {
     
-    // testing git functions fr ong
+    // testing git  for the second time fr ong
     private ArrayList<Contact> contactList = new ArrayList<>();
 
     /*
