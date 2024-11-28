@@ -35,5 +35,5 @@ public class ContactManager {
         contactList.clear();
     }
     
-  
+  // comment made in GitHub
 }
