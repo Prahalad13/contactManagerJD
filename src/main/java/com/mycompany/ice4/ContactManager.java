@@ -34,6 +34,6 @@ public class ContactManager {
     public void clearContacts() {
         contactList.clear();
     }
-    
+    //comment made on friend branch
   // comment made in GitHub
 }
